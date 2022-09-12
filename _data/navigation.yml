@@ -1,0 +1,8 @@
+# main links
+main:
+  - title: "درباره"
+    url: /about/
+  - title: "تماس با من"
+    url: /contact/
+  - title: "دسته‌بندی"
+    url: /tags/
