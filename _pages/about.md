@@ -1,6 +1,8 @@
 ---
 title: به وبلاگم خوش اومدی!
 permalink: /about/
+layout: single
+author_profile: true
 ---
 
-# من آدم باحالیم!
+ازکجا آمده آمدنم بهر چه بود؟ ... بکجا میروم آخر بنمایی وطنم؟

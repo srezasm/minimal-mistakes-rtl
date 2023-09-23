@@ -1,6 +1,8 @@
 ---
 title: تماس با من
 permalink: /contact/
+layout: single
+author_profile: true
 ---
 
-# مشکلاتت رو بامن در میون بگذار
+برای تماس با من از دستت استفاده کن!
